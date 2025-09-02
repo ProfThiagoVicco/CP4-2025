@@ -23,8 +23,10 @@ Desenvolver ou refatorar uma **WebAPI em .NET 8**, utilizando os conceitos de **
 ## 📦 Entrega
 
 - O projeto deve ser entregue via **repositório público no GitHub**
+- Somente um integrante deverá entregar
 - O link deve ser enviado conforme orientação do professor
 - O repositório deve conter:
+  - Incluir no readme os integrantes do grupo 
   - Código-fonte organizado
   - README completo
   - Swagger funcional
